@@ -1,0 +1,26 @@
+body{
+	padding-bottom: 5rem;
+	background-color: #b3ecff;
+}
+
+form{
+	background-color: white;
+	border: outset;
+	padding: 10px;
+	border-radius: 8px;
+}
+
+.bl{
+	border-left: 4px solid;
+	height: auto;
+}
+
+.header {
+  padding: 10em 60px;
+  text-align: left;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+  height: 752px;
+  background-image: url('../image/bg2.jpg');
+}
